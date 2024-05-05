@@ -1,0 +1,22 @@
+
+.LinkHidder{
+    position: absolute;
+    width: 65px;
+    height: 32px;
+    background: transparent;
+    bottom: 12px;
+    right: 74px;
+    border: 2px solid transparent;    
+}
+
+.TopLinkHidder{
+    position: absolute;
+    z-index: 11111;
+    top: 15px;
+    right: 0;
+    height: 63px;
+    width: 100%;
+    background: transparent;
+    border: 2px solid transparent;
+}
+

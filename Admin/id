@@ -1,0 +1,10 @@
+const firebaseConfig = {
+    apiKey: "AIzaSyCQETZIoRqhCdirKEzqKGSXr5i5-PC0T68",
+    authDomain: "ics-kharian.firebaseapp.com",
+    databaseURL: "https://ics-kharian-default-rtdb.firebaseio.com",
+    projectId: "ics-kharian",
+    storageBucket: "ics-kharian.appspot.com",
+    messagingSenderId: "592627003269",
+    appId: "1:592627003269:web:18020dd2e0a41242e0deec",
+    measurementId: "G-PZZ33KBSCH"
+  };
